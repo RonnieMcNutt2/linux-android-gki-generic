@@ -8,7 +8,7 @@
 VARIANT = android
 
 # Kernel base version
-KERNEL_BASE_VERSION = 5.10.198
+KERNEL_BASE_VERSION = 5.15.137
 
 # The kernel cmdline to use
 KERNEL_BOOTIMAGE_CMDLINE = 
@@ -87,7 +87,7 @@ KERNEL_BOOTIMAGE_TAGS_OFFSET =
 KERNEL_BOOTIMAGE_PATCH_LEVEL = 2023-08
 
 # Specify boot image OS version if needed
-KERNEL_BOOTIMAGE_OS_VERSION = 12.0.0
+KERNEL_BOOTIMAGE_OS_VERSION = 13.0.0
 
 # Required for header version 2, ignore otherwise
 KERNEL_BOOTIMAGE_DTB_OFFSET = 
